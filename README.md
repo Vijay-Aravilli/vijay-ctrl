@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijay-ctrl
+- 👋 Hi, I’m @vijay
 - 👀 I’m interested in frontend/backend
 - 🌱 I’m currently learning DSA, HTML, CSS
 - 💞️ I’m looking to collaborate on any frontend projects
